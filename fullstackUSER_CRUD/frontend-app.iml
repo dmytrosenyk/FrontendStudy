@@ -2,8 +2,8 @@
 <module type="WEB_MODULE" version="4">
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
-    <content url="file://$MODULE_DIR$/counter">
-      <excludeFolder url="file://$MODULE_DIR$/counter/build" />
+    <content url="file://$MODULE_DIR$/frontend-app">
+      <excludeFolder url="file://$MODULE_DIR$/frontend-app/build" />
     </content>
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
